@@ -2,13 +2,13 @@
 Proyecto Realizado por los alumnos de la cohorte 2022 de la carrera "Desarrollo Web y Aplicaciones Digitales" para la asignatura "Practicas Profesionalizantes" del año lectivo 2024.
 
 ## INTEGRANTES DEL GRUPO:
--Federico Gabriel Gonzalez
--Martin Daniel Garcia
--Fernando Manuel Tadeo Suarez
--Victoria Ines Avalos
--Shirley Luz Frassa
--Valentina Carrascal
--Juan Marcelo Cajal
+- Federico Gabriel Gonzalez
+- Martin Daniel Garcia
+- Fernando Manuel Tadeo Suarez
+- Victoria Ines Avalos
+- Shirley Luz Frassa
+- Valentina Carrascal
+- Juan Marcelo Cajal
 
 ## LINK DE REPOSITORIOS:
 
